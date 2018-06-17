@@ -1,0 +1,39 @@
+Nov 29 2017 06:55:28
+{"Number":2,"Message":"Cannot modify header information - headers already sent by (output started at \/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-includes\/functions.php:3727)","File":"\/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-content\/plugins\/buddyforms\/includes\/resources\/sessions\/class-wp-session.php","Line":136}
+
+Nov 29 2017 06:56:18
+{"Number":2,"Message":"Cannot modify header information - headers already sent by (output started at \/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-includes\/functions.php:3727)","File":"\/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-content\/plugins\/buddyforms\/includes\/resources\/sessions\/class-wp-session.php","Line":136}
+
+Nov 29 2017 06:57:08
+{"Number":2,"Message":"Cannot modify header information - headers already sent by (output started at \/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-includes\/functions.php:3727)","File":"\/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-content\/plugins\/buddyforms\/includes\/resources\/sessions\/class-wp-session.php","Line":136}
+
+Nov 29 2017 06:58:01
+{"Number":2,"Message":"Cannot modify header information - headers already sent by (output started at \/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-includes\/functions.php:3727)","File":"\/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-content\/plugins\/buddyforms\/includes\/resources\/sessions\/class-wp-session.php","Line":136}
+
+Nov 29 2017 06:58:04
+{"Number":2,"Message":"Cannot modify header information - headers already sent by (output started at \/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-includes\/functions.php:3727)","File":"\/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-content\/plugins\/buddyforms\/includes\/resources\/sessions\/class-wp-session.php","Line":136}
+
+Nov 29 2017 06:58:05
+{"Number":2,"Message":"Cannot modify header information - headers already sent by (output started at \/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-includes\/functions.php:3727)","File":"\/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-content\/plugins\/buddyforms\/includes\/resources\/sessions\/class-wp-session.php","Line":136}
+
+Nov 29 2017 06:58:06
+{"Number":2,"Message":"Cannot modify header information - headers already sent by (output started at \/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-includes\/functions.php:3727)","File":"\/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-content\/plugins\/buddyforms\/includes\/resources\/sessions\/class-wp-session.php","Line":136}
+
+Nov 29 2017 06:59:12
+{"Number":2,"Message":"Cannot modify header information - headers already sent by (output started at \/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-includes\/functions.php:3727)","File":"\/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-content\/plugins\/buddyforms\/includes\/resources\/sessions\/class-wp-session.php","Line":136}
+
+Nov 29 2017 06:59:14
+{"Number":2,"Message":"Cannot modify header information - headers already sent by (output started at \/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-includes\/functions.php:3727)","File":"\/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-content\/plugins\/buddyforms\/includes\/resources\/sessions\/class-wp-session.php","Line":136}
+
+Nov 29 2017 06:59:15
+{"Number":2,"Message":"Cannot modify header information - headers already sent by (output started at \/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-includes\/functions.php:3727)","File":"\/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-content\/plugins\/buddyforms\/includes\/resources\/sessions\/class-wp-session.php","Line":136}
+
+Nov 29 2017 06:59:16
+{"Number":2,"Message":"Cannot modify header information - headers already sent by (output started at \/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-includes\/functions.php:3727)","File":"\/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-content\/plugins\/buddyforms\/includes\/resources\/sessions\/class-wp-session.php","Line":136}
+
+Nov 29 2017 06:59:26
+{"Number":2,"Message":"Cannot modify header information - headers already sent by (output started at \/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-includes\/functions.php:3727)","File":"\/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-content\/plugins\/buddyforms\/includes\/resources\/sessions\/class-wp-session.php","Line":136}
+
+Nov 29 2017 06:59:28
+{"type":2,"message":"is_readable(): open_basedir restriction in effect. File(\/dev\/urandom) is not within the allowed path(s): (\/var\/www\/vhosts\/dotin.ovh\/:\/tmp\/)","file":"\/var\/www\/vhosts\/dotin.ovh\/httpdocs\/wp-includes\/class-phpass.php","line":68}
+
