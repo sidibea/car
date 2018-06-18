@@ -20,17 +20,19 @@ define('WP_AUTO_UPDATE_CORE', false);// Ce paramètre a été défini par WordPr
  */
 
 // ** MySQL settings ** //
+// ** MySQL settings ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wordpress_y');
+define('DB_NAME', 'motors');
 
 /** MySQL database username */
-define('DB_USER', 'wordpress_o');
+define('DB_USER', 'baya');
 
 /** MySQL database password */
-define('DB_PASSWORD', '$1AaX2dRf5');
+define('DB_PASSWORD', 'ginco');
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost:3306' );
+define( 'DB_HOST', 'localhost' );
+
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
